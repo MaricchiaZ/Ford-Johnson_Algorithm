@@ -37,3 +37,9 @@ O algoritmo Ford-Johnson é útil quando você deseja ordenar eficientemente uma
 ## Conclusão
 
 O algoritmo Ford-Johnson oferece uma abordagem interessante para ordenar eficientemente elementos, aproveitando tanto a inserção binária quanto a fusão de pares ordenados. Sua estratégia de divisão, ordenação e fusão leva a uma solução eficaz para problemas de ordenação em várias situações.
+
+## Referências
+
+Ford, Lester R. e Selmer M. Johnson. “Um problema de torneio.” The American Mathematical Monthly, vol. 66, nº. 5, 1959, pp. 387–389. JSTOR, www.jstor.org/stable/2308750 
+
+Knuth, Donald E. A arte da programação de computadores: Volume 3: Classificando e pesquisando. Profissional Addison-Wesley; 2 edição (4 de maio de 1998). (pág 184)
