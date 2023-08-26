@@ -1,6 +1,6 @@
 # Algoritmo Ford-Johnson
 
-O algoritmo Ford-Johnson é um algoritmo de ordenação que combina a estratégia de inserção binária com a fusão de pares ordenados. Ele foi projetado para ordenar eficientemente uma sequência de elementos usando a inserção binária para manter a ordenação parcial e, em seguida, mesclando os pares ordenados para obter o resultado final.
+O algoritmo Ford-Johnson é um algoritmo de ordenação que combina a estratégia de inserção binária com a fusão de pares ordenados. Ele foi projetado para ordenar eficientemente uma sequência de elementos usando a inserção binária para manter a ordenação parcial e, em seguida, mesclando os pares ordenados para obter o resultado final. Esse algoritmo, que originalmente chamava “Um problema de torneio.” tem pouco uso prático, pois requer estruturas de dados complexas e é mais lento do que outras classificações mais comuns e mais simples de implementar, mas é muito interessante por ordenar fazendo o menor número de comparações.
 
 ## Como Funciona
 
